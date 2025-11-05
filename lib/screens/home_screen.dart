@@ -87,7 +87,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               ScaffoldMessenger.of(context).showSnackBar(
                                 SnackBar(
                                   content: Text(
-                                      'Terima kasih ${MyApp.fullName}! UTS kamu sudah selesai 😄'),
+                                      'Terima kasih ${MyApp.fullName}! UAS kamu sudah selesai 😄'),
                                 ),
                               );
                             }

@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const SizedBox(height: 24),
             Text(
-              'UTS Aplikasi Mobile',
+              'UAS Aplikasi Mobile',
               style: Theme.of(context).textTheme.headlineSmall,
             ),
             Text(
